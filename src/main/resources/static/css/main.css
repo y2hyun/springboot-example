@@ -5,3 +5,17 @@ h1{
 h2{
 	color:#FF0000;
 }
+
+.navbar .login-form .input-group {
+	margin-right: 4px;
+	float: left;
+}
+.navbar .login-form .form-control {
+	max-width: 158px;
+	border-radius: 0 2px 2px 0;
+}
+	
+.navbar .navbar-right .dropdown-menu {
+	width: 615px;
+	padding: 20px;
+}
